@@ -73,6 +73,8 @@ To learn python and github!Top
 	Faces
 31. LDA, QDA
 
-32. Time-Series  
+32. Time-Series 
+
+33. Logging 
 
 
