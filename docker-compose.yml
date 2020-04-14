@@ -1,0 +1,10 @@
+version: '3'
+services:
+  py_learn:
+    build: .
+    image: py_learn
+    container_name: py_learn
+    ports:
+      - '8888:8888'
+    volumes:
+      - '.:/workspace'
