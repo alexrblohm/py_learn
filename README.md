@@ -3,16 +3,16 @@
 Alex, Bridget, Holly
 
 ## Purpose
-To learn python and github!Top
+To learn python and github!
 
 ## Topics
 
-1.Input tree weight dataframe 
+1. Input tree weight dataframe 
 
-2.Sort a dataframe
+2. Sort a dataframe
 
-3.Merge dataframe 
-	appending&combinding 
+3. Merge dataframe 
+	appending & combining 
 
 4. Subset a dataframe 
 
@@ -65,11 +65,11 @@ To learn python and github!Top
 
 27. SVM
 
-28.KNN
+28. KNN
 
 29. Clustering
 	K-means and Hierarchical
-30.PCA
+30. PCA
 	Faces
 31. LDA, QDA
 
